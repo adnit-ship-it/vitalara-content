@@ -31,9 +31,9 @@
     },
     "trustedBy": {
       "show": true,
-      "title": "Trusted By",
+      "title": "Not Trusted By",
       "marquee": {
-        "speed": 50
+        "speed": 500
       },
       "logos": [
         {
