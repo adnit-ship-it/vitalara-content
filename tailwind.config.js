@@ -17,10 +17,10 @@ export default {
         backgroundColor: 'var(--color-background, #EBF2EE)',
         bodyColor: 'var(--color-body, #4A4A4A)',
         accentColor1: {
-          DEFAULT: 'var(--color-accentColor1, #FF6B35)',
-          50: 'color-mix(in srgb, var(--color-accentColor1, #FF6B35) 50%, transparent)',
+          DEFAULT: 'var(--color-accentColor1, #9C543A)',
+          50: 'color-mix(in srgb, var(--color-accentColor1, #9C543A) 50%, transparent)',
         },
-        accentColor2: 'var(--color-accentColor2, #2E3831)',
+        accentColor2: 'var(--color-accentColor2, #4FB56E)',
       },
       fontFamily: {
         // Fonts automatically loaded from designTokens.json
