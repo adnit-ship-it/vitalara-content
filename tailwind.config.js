@@ -20,7 +20,7 @@ export default {
           DEFAULT: 'var(--color-accentColor1, #84513E)',
           50: 'color-mix(in srgb, var(--color-accentColor1, #84513E) 50%, transparent)',
         },
-        accentColor2: 'var(--color-accentColor2, #6C9E7A)',
+        accentColor2: 'var(--color-accentColor2, #2E3831)',
       },
       fontFamily: {
         // Fonts automatically loaded from designTokens.json
